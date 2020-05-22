@@ -7,6 +7,7 @@
 
 <a href="flutter_wallet_ui_kit.apk">Try the APK</a>
 
+  <img src="screenshots/flutter_wallet_ui_kit.gif" width="200"/>
   <img src="screenshots/Screenshot_1.png" width="200"/>
   <img src="screenshots/Screenshot_2.png" width="200"/>
   <img src="screenshots/Screenshot_3.png" width="200"/>
